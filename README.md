@@ -1,6 +1,6 @@
 # ImageProcessing
 ##A simple image processing application
-###Algorithms implemented :
+##Algorithms implemented :
  * _Brightness_
  * _Linear_
  * _Negative_
@@ -11,3 +11,5 @@
  * _Convolution_
  * _Convolution Sobel_
  * _Median_
+
+Runnable jar: Image Processing.jar
