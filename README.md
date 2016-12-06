@@ -1,6 +1,6 @@
 # ImageProcessing
-A simple image processing application
-Algorithms implemented :
+##A simple image processing application
+##Algorithms implemented :
  * _Brightness_
  * _Linear_
  * _Negative_
