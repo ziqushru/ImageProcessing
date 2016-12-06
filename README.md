@@ -1,13 +1,13 @@
 # ImageProcessing
 A simple image processing application
 Algorithms implemented :
- * Brightness
- * Linear
- * Negative
- * Threshold
- * Auto Threshold
- * Square Route
- * Arithmetic Mean
- * Convolution
- * Convolution Sobel
- * Median
+ * _Brightness_
+ * _Linear_
+ * _Negative_
+ * _Threshold_
+ * _Auto Threshold_
+ * _Square Route_
+ * _Arithmetic Mean_
+ * _Convolution_
+ * _Convolution Sobel_
+ * _Median_
