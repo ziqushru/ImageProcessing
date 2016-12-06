@@ -1,5 +1,5 @@
 # ImageProcessing
-###A simple image processing application
+###A simple image processing application developed using Java
 ###Algorithms implemented :
  * _Brightness_
  * _Linear_
